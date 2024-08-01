@@ -1,5 +1,4 @@
-import React from "react";
-import "leaflet/dist/leaflet.css";
+ import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 
 import markerIcon from "../../assets/image/icon-location.svg";
